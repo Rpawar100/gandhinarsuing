@@ -1,0 +1,811 @@
+.car-yellow-strip {
+    background: #f7ca14;
+    /*height: 110px;*/
+    width: 320px;
+    height: 30px;
+    color: #373737;
+    text-align: center;
+    line-height: 30px;
+    font-family: 'Lato';
+    font-size: 14px;
+}
+.car-location {
+    /*height: 110px;*/
+    width: 320px;
+    height: 55px;
+    border-bottom: solid 1px #B2B2B2;
+}
+.car-laocation-style1 {
+    color: #373737;
+    font-family: 'Lato-Regular';
+    font-size: 13px;
+    margin: 0px 0px 0px 43px;
+    line-height: 13px;
+}
+.car-laocation-icon {
+    color: #696969;
+    font-size: 22px;
+    /*line-height: 60px;*/
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.car-name-details {
+    /*height: 110px;*/
+    width: 210px;
+    height: 61px;
+    border-bottom: solid 1px #B2B2B2;
+}
+.car-phone-style {
+    color: #373737;
+    font-family: "Lato-Regular";
+    font-size: 14px;
+    margin: 11px 0 0 60px;
+    position: absolute;
+}
+.car-phone-icon {
+    color: #696969;
+    font-size: 28px;
+    line-height: 20px;
+    margin-left: 10px;
+}
+.car-phone-style {
+    color: #373737;
+    font-family: "Lato-Regular";
+    font-size: 14px;
+    margin: 11px 0 0 60px;
+    position: absolute;
+}
+.port-details {
+    /*height: 110px;*/
+    width: 210px;
+    height: 35px;
+    /*border-bottom: solid 1px #B2B2B2;*/
+}
+.ign-style {
+    margin: 8px 0 0 30px;
+}
+.port-style {
+    color: #696969;
+    font-family: 'Lato-Light';
+    font-size: 14px;
+    position: absolute;
+}
+.pow-style {
+    margin: 8px 0 0 100px;
+}
+.pow-style1 {
+    margin: 8px 0 0 110px;
+}
+.ac-style {
+    margin: 8px 0 0 176px;
+}
+.gps-style {
+    margin: 8px 0 0 245px;
+}
+.car-speed {
+    background: none repeat scroll 0 0 #e6e65c;
+    float: left;
+    border-left: solid 1px #B2B2B2;
+    border-bottom: solid 1px #B2B2B2;
+    height: 96px;
+    width: 108px;
+}
+.car-speed-style {
+    color: #373737;
+    font-family: 'Lato-Regular';
+    font-size: 15px;
+    text-align: center;
+    line-height: 0;
+    margin: 20px 0px 0px 0px;
+}
+.car-speed-style1 {
+    color: #373737;
+    font-family: 'Lato-Light';
+    font-size: 35px;
+    text-align: center;
+    margin: 5px 0px 0px 0px;
+}
+.car-speed-style2 {
+    color: #373737;
+    font-family: 'Lato-Regular';
+    font-size: 15px;
+    text-align: center;
+    line-height: 0;
+    margin: 10px 0px 0px 0px;
+}
+.car-status-details {
+    clear: both;
+    border-bottom: solid 1px #B2B2B2;
+}
+.car-status-green {
+    margin-left: 17px;
+    line-height: 31px;
+}
+.car-status-style {
+    color: #696969;
+    font-family: 'Lato-Light';
+    font-size: 14px;
+    position: absolute;
+    margin: 6px 0px 0px 10px;
+}
+.car-icons-four-details {
+    clear: both;
+    /* padding-top: 15px; */
+}
+.car-icons-four {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 25px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four1 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 95px;
+    position: absolute;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.car-icons-four2 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 165px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four3 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 216px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four4 {
+    font-size: 20px;
+    line-height: 45px;
+    margin-left: 280px;
+    position: absolute;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.car-icons-four-style {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 5px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style1 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 70px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style2 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 140px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style3 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 210px;
+    position: absolute;
+    cursor: pointer;
+}
+.car-icons-four-style4 {
+    color: #696969;
+    font-family: "Lato-Regular";
+    font-size: 10px;
+    margin: 5px 0px 0px 260px;
+    position: absolute;
+    cursor: pointer;
+}
+.gm-style-iw{
+  left:0px;
+  top:0px;
+  width:382px;
+}
+
+/*  MAP HEADER*/
+
+.satcop-icons {
+    width: 460px;
+    margin: 0 auto;
+}
+.satcop-icons ul li {
+    float: left;
+    list-style-type: none;
+}
+.style8 {
+    color: #e1e1e1;
+    font-family: "Lato";
+    font-size: 9px;
+    line-height: 24px;
+    margin-left: 6px;
+}
+.style-green {
+    background: none repeat scroll 0 0 #35b052;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 4px;
+    text-align: center;
+    min-width: 15px;
+    width: auto;
+}
+.style-yellow {
+    background: none repeat scroll 0 0 #f9b230;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 4px;
+    text-align: center;
+    min-width: 15px;
+    width: auto;
+}
+.style-red {
+    background: none repeat scroll 0 0 #e42e2e;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 4px;
+    text-align: center;
+    min-width: 15px;
+    width: auto;
+}
+.style-darkgreen {
+    background: none repeat scroll 0 0 #2F7A4C;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 4px;
+    text-align: center;
+    min-width: 15px;
+    width: auto;
+}
+.style-purpal {
+    background: none repeat scroll 0 0 #933EC5;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 4px;
+    text-align: center;
+    min-width: 15px;
+    width: auto;
+}
+.style-blue {
+    background: none repeat scroll 0 0 #3194F4;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 4px;
+    text-align: center;
+    min-width: 15px;
+    width: auto;
+}
+.style-gray {
+    background: none repeat scroll 0 0 #5f5f5f;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 18px;
+    line-height: 16px;
+    margin-left: 1px;
+    margin-right: 6px;
+    margin-top: 4px;
+    text-align: center;
+    min-width: 15px;
+    width: auto;
+}
+.line-style {
+    width: 2px;
+    background: #686868;
+    height: 36px;
+    float: left;
+}
+.icons-style-1 {
+    width: 360px;
+    float: left;
+    margin: 8px 0px 0px 0px;
+}
+.engine-icons {
+    width: 325px;
+    margin: 0 auto;
+}
+.engine-icons ul li {
+    float: left;
+    list-style-type: none;
+}
+.style9 {
+    color: #e1e1e1;
+    font-family: "Lato";
+    font-size: 9px;
+    line-height: 24px;
+}
+.line-style {
+    width: 2px;
+    background: #686868;
+    height: 36px;
+    float: left;
+}
+.icons-style-2 {
+    width: 170px;
+    float: left;
+    margin: 10px 0px 0px 0px;
+}
+.today-run {
+    margin: 0 auto;
+    width: 135px;
+}
+.today-run ul li {
+    list-style-type: none;
+    float: left;
+}
+.today-run ul li {
+    list-style-type: none;
+    float: left;
+}
+.gray-kms {
+    background: none repeat scroll 0 0 #5f5f5f;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 15px;
+    line-height: 14px;
+    margin-left: 2px;
+    margin-right: 4px;
+    margin-top: 4px;
+    text-align: center;
+    width: 29px;
+}
+.icons-style-3 {
+    width: 200px;
+    float: left;
+    margin: 10px 0px 0px 0px;
+}
+.duration {
+    margin: 0 auto;
+    width: 175px;
+}
+.duration ul li {
+    list-style-type: none;
+    float: left;
+}
+.style11 {
+    color: #e1e1e1;
+    font-family: "Lato";
+    font-size: 11px;
+    line-height: 24px;
+    text-transform: uppercase;
+}
+.gray-hrs {
+    background: none repeat scroll 0 0 #5f5f5f;
+    border-radius: 3px;
+    color: #fff;
+    font-family: "Lato";
+    font-size: 10px;
+    height: 15px;
+    line-height: 14px;
+    margin-left: 2px;
+    margin-right: 4px;
+    margin-top: 4px;
+    text-align: center;
+    width: 29px;
+}
+
+@media (max-width: 1899px) and (min-width: 1600px){
+    .header-1 {
+        height: 42px;
+    }
+    .icons-style {
+        width: 40.47%;
+        float: left;
+        margin: 7px 0 0;
+    }
+    .satcop-icons {
+        width: 580px;
+    }
+    .style8, .style9, .style10, .style11 {
+        font-size: 12px;
+        line-height: 30px;
+        color: #e1e1e1;
+    }
+    .style-green, .style-yellow, .style-red, .style-gray, .style-blue, .style-darkgreen, .style-purpal {
+        font-size: 13px;
+        height: 24px;
+        line-height: 22px;
+        width: 20px;
+    }
+
+    .line-style {
+        height: 45px;
+    }
+    .icons-style-1 {
+        width: 28%;
+        float: left;
+        margin: 7px 0 0;
+    }
+    .engine-icons {
+        width: 376px;
+    }
+    .icons-style-2 {
+        width: 13%;
+        float: left;
+        margin: 8px 0 0;
+    }
+    .today-run {
+        width: 153px;
+    }
+    .gray-kms, .gray-hrs {
+        font-size: 12px;
+        height: 20px;
+        line-height: 18px;
+        width: 35px;
+    }
+    .icons-style-3 {
+        width: 15.60%;
+        float: left;
+        margin: 8px 0 0;
+    }
+    .duration {
+        width: 205px;
+    }
+}
+
+/* Search Near By*/
+
+
+
+#menu {
+    width: 85px;
+    height: 17px;
+    text-align: right;
+    background: #FFFFFF;
+    /* margin: 0 auto 300px auto; */
+    /* padding: 3px 6px; */
+    padding: 0px;
+    /* border-radius: 6px; */
+    box-shadow: 0 15px 10px -15px rgba(0,0,0,0.5);
+    z-index: 999999;
+    position: absolute;
+    right: 1%;
+    top: 6%;
+}
+#menu ul.level1 {
+    margin: 0 auto;
+}
+#menu ul {
+    display: inline-block;
+}
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    white-space: nowrap;
+    text-align: left;
+    background: #FFFFFF;
+}
+#menu ul.level1 li.level1-li {
+    float: left;
+    display: block;
+    position: relative;
+}
+#menu li {
+    display: inline-block;
+    display: inline;
+}
+#menu li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#menu input {
+    display: none;
+}
+#menu input:checked + label {
+    border-color: #ff0;
+}
+.close {
+    color: #fff;
+    float: right;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1;
+    opacity: 0.9;
+    position: absolute;
+    right: -15px;
+    text-shadow: 0 1px 0 #fff;
+    top: -15px;
+}
+/*#menu input.tabs:checked ~ label.close {
+    display: block;
+}*/
+#menu label.close {
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    display: none;
+    padding: 0;
+    margin: -20px 0 0 0;
+    background: transparent;
+    border: 0;
+}
+/*#menu input.subs:checked + label ~ ul.left {
+    opacity: 1;
+    left: auto;
+    right: 100%;
+    top: auto;
+    margin-top: -19px;
+    margin-right: 5px;
+}
+#menu input.tabs:checked + label ~ ul.left {
+    opacity: 1;
+    left: auto;
+    right: 0;
+    top: 50px;
+}*/
+/*#menu input.subs:checked + label ~ ul {
+    opacity: 1;
+    left: 100%;
+    top: auto;
+    margin-top: -40px;
+    margin-left: 5px;
+    background: transparent;
+}
+#menu input.tabs:checked + label ~ ul {
+    opacity: 1;
+    left: -6px;
+    top: 50px;
+}
+#menu ul ul {
+    position: absolute;
+    left: -9999px;
+    opacity: 0;
+    border-radius: 6px;
+    box-shadow: 0 15px 10px -15px rgba(0,0,0,0.5);
+    -webkit-transition: opacity 1s;
+    -moz-transition: opacity 1s;
+    -ms-transition: opacity 1s;
+    -o-transition: opacity 1s;
+    transition: opacity 1s;
+}*/
+#menu ul {
+    display: inline-block;
+}
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    white-space: nowrap;
+    text-align: left;
+    background: #FFFFFF;
+}
+#menu li {
+    display: inline-block;
+    display: inline;
+}
+#menu li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#menu ul.left a {
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+    /* padding: 0 10px 0 20px; */
+    height: 15px;
+}
+#menu a {
+    display: block;
+    font: bold 11px sans-serif;
+    color: #111111;
+    line-height: 15px;
+    /* line-height: 30px; */
+    text-decoration: none;
+    padding: 0 20px 0 10px;
+    margin-top: 43px;
+    margin-right: -3px;
+    background: #FFFFFF;
+    border: 1px solid #c5c5c5;
+    /* border-radius: 3px; */
+}
+#menu input {
+    display: none;
+}
+.close {
+    color: #fff;
+    float: right;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1;
+    opacity: 0.9;
+    position: absolute;
+    right: -15px;
+    text-shadow: 0 1px 0 #fff;
+    top: -15px;
+}
+input, textarea, .uneditable-input {
+    margin-left: 0;
+}
+#menu input.close:checked + label.close {
+    display: none;
+}
+#menu input.tabs:checked ~ label.close {
+    display: block;
+}
+#menu input:checked + label {
+    border-color: #ff0;
+}
+#menu label.close {
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    display: none;
+    padding: 0;
+    margin: -20px 0 0 0;
+    background: transparent;
+    border: 0;
+}
+#menu label {
+    /* top: 20px; */
+    height: 20px;
+    display: block;
+    font: bold 11px sans-serif;
+    color: #111111;
+    line-height: 20px;
+    padding: 0 20px 0 10px;
+    position: relative;
+    margin-right: -3px;
+    /* font-weight: normal; */
+    background: #FFFFFF;
+    border: 1px solid #c5c5c5;
+    /* border-radius: 3px; */
+    box-shadow: 0 15px 10px -15px rgba(0,0,0,0.5);
+}
+#menu li.li_style a label {
+    /* top: 20px; */
+    height: 17px;
+    display: inline;
+    font: bold 11px sans-serif;
+    color: #111111;
+    line-height: 20px;
+    padding: 0 20px 0 10px;
+    position: relative;
+    margin-right: -3px;
+    /* font-weight: normal; */
+    background: #FFFFFF;
+    border: none;
+}
+
+.close {
+    color: #fff;
+    float: right;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 1;
+    opacity: 0.9;
+    position: absolute;
+    right: -15px;
+    text-shadow: 0 1px 0 #fff;
+    top: -15px;
+}
+/*#menu input.close:checked + label ~ ul.left {
+    opacity: 0;
+    left: -9999px;
+    right: auto;
+    top: auto;
+    margin-top: -40px;
+}
+#menu input.subs:checked + label ~ ul.left {
+    opacity: 1;
+    left: auto;
+    right: 100%;
+    top: auto;
+    margin-top: -19px;
+    margin-right: 5px;
+}
+#menu input.tabs:checked + label ~ ul.left {
+    opacity: 1;
+    left: auto;
+    right: 0;
+    top: 50px;
+}
+#menu input.close:checked + label ~ ul {
+    opacity: 0;
+    left: -9999px;
+    top: auto;
+    margin-top: -40px;
+}
+#menu input.subs:checked + label ~ ul {
+    opacity: 1;
+    left: 100%;
+    top: auto;
+    margin-top: -40px;
+    margin-left: 5px;
+    background: transparent;
+}
+#menu input.tabs:checked + label ~ ul {
+    opacity: 1;
+    left: -6px;
+    top: 50px;
+}*/
+/*#menu ul ul {
+    position: absolute;
+    left: -9999px;
+    opacity: 0;
+    border-radius: 6px;
+    box-shadow: 0 15px 10px -15px rgba(0,0,0,0.5);
+    -webkit-transition: opacity 1s;
+    -moz-transition: opacity 1s;
+    -ms-transition: opacity 1s;
+    -o-transition: opacity 1s;
+    transition: opacity 1s;
+}*/
+#menu ul {
+    display: inline-block;
+}
+#menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    white-space: nowrap;
+    text-align: left;
+    background: #FFFFFF;
+}
+
+
+#menu li.li_style a {
+    position:relative;
+    float:left;
+    width:160px;
+    height:21px;
+    margin-top:0px;
+    text-transform: capitalize;
+}
+
+#menu li.li_style a input.style_input {
+    margin:1px 2%;
+    display:inline-block;
+    vertical-align:middle;
+}

@@ -1,0 +1,330 @@
+[07-Nov-2023 14:45:46 Asia/Kolkata] PHP Fatal error:  Call to undefined function json_output() in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 140
+[07-Nov-2023 17:22:22 Asia/Kolkata] PHP Fatal error:  Call to undefined function json_output() in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 148
+[07-Nov-2023 12:11:50 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 157
+[07-Nov-2023 12:23:58 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_sub_department.php on line 168
+[07-Nov-2023 12:45:31 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_sub_department.php on line 174
+[07-Nov-2023 12:45:49 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_sub_department.php on line 174
+[07-Nov-2023 13:30:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/controllers/Cn_visitor.php on line 102
+[07-Nov-2023 22:59:05 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/autoqed/public_html/hospital/application/views/vw_visitor_dashboard.php on line 94
+[09-Nov-2023 15:59:08 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 330
+[09-Nov-2023 15:00:59 UTC] PHP Fatal error:  Cannot redeclare Cn_service_provider::service_provider_list() in /home/autoqed/public_html/hospital/application/controllers/Cn_service_provider.php on line 68
+[09-Nov-2023 15:18:00 UTC] PHP Fatal error:  Cannot redeclare Cn_service_provider::service_provider_list() in /home/autoqed/public_html/hospital/application/controllers/Cn_service_provider.php on line 68
+[09-Nov-2023 15:18:01 UTC] PHP Fatal error:  Cannot redeclare Cn_service_provider::service_provider_list() in /home/autoqed/public_html/hospital/application/controllers/Cn_service_provider.php on line 68
+[09-Nov-2023 15:18:02 UTC] PHP Fatal error:  Cannot redeclare Cn_service_provider::service_provider_list() in /home/autoqed/public_html/hospital/application/controllers/Cn_service_provider.php on line 68
+[13-Nov-2023 14:21:06 Asia/Kolkata] PHP Fatal error:  Call to undefined function json_output() in /home/autoqed/public_html/hospital/application/controllers/Cn_patient_category.php on line 144
+[13-Nov-2023 14:57:55 Asia/Kolkata] PHP Fatal error:  Call to undefined function json_output() in /home/autoqed/public_html/hospital/application/controllers/Cn_patient_company.php on line 141
+[13-Nov-2023 15:25:40 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Cn_rate_config in /home/autoqed/public_html/hospital/application/views/vw_rate_config.php on line 312
+[13-Nov-2023 15:27:04 Asia/Kolkata] PHP Fatal error:  Cannot redeclare class Cn_rate_config in /home/autoqed/public_html/hospital/application/views/vw_rate_config.php on line 312
+[13-Nov-2023 12:31:21 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 193
+[13-Nov-2023 12:59:21 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 196
+[14-Nov-2023 13:16:08 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on array in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 114
+[14-Nov-2023 13:16:10 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on array in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 114
+[14-Nov-2023 13:16:41 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on array in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 114
+[14-Nov-2023 08:12:05 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 111
+[14-Nov-2023 10:54:27 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 398
+[14-Nov-2023 11:58:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 442
+[14-Nov-2023 13:08:35 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 486
+[16-Nov-2023 09:23:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_registration.php on line 135
+[16-Nov-2023 10:15:23 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_registration.php on line 93
+[16-Nov-2023 11:49:58 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 104
+[16-Nov-2023 12:47:18 UTC] PHP Parse error:  syntax error, unexpected ']' in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_type.php on line 103
+[16-Nov-2023 13:18:35 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 95
+[16-Nov-2023 13:18:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 95
+[16-Nov-2023 13:18:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 95
+[16-Nov-2023 13:18:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 95
+[16-Nov-2023 22:47:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method Cn_authentication::session_expired() in /home/autoqed/public_html/hospital/application/controllers/Cn_authentication.php on line 65
+[16-Nov-2023 22:47:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method Cn_authentication::session_expired() in /home/autoqed/public_html/hospital/application/controllers/Cn_authentication.php on line 65
+[16-Nov-2023 17:25:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/autoqed/public_html/hospital/application/controllers/Cn_authentication.php on line 34
+[16-Nov-2023 17:25:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/autoqed/public_html/hospital/application/controllers/Cn_authentication.php on line 34
+[16-Nov-2023 17:25:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/autoqed/public_html/hospital/application/controllers/Cn_authentication.php on line 34
+[16-Nov-2023 22:56:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::column_array() in /home/autoqed/public_html/hospital/application/controllers/Cn_authentication.php on line 30
+[20-Nov-2023 20:54:22 Asia/Kolkata] PHP Fatal error:  Call to undefined function now() in /home/autoqed/public_html/hospital/application/views/vw_opd_appointment.php on line 272
+[20-Nov-2023 20:54:26 Asia/Kolkata] PHP Fatal error:  Call to undefined function now() in /home/autoqed/public_html/hospital/application/views/vw_opd_appointment.php on line 272
+[20-Nov-2023 20:54:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function now() in /home/autoqed/public_html/hospital/application/views/vw_opd_appointment.php on line 272
+[20-Nov-2023 20:55:12 Asia/Kolkata] PHP Fatal error:  Call to undefined function now() in /home/autoqed/public_html/hospital/application/views/vw_opd_appointment.php on line 272
+[20-Nov-2023 20:55:44 Asia/Kolkata] PHP Fatal error:  Call to undefined function now() in /home/autoqed/public_html/hospital/application/views/vw_opd_appointment.php on line 272
+[20-Nov-2023 20:57:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/autoqed/public_html/hospital/application/views/vw_opd_appointment.php on line 272
+[20-Nov-2023 21:02:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/autoqed/public_html/hospital/application/views/vw_opd_appointment.php on line 272
+[20-Nov-2023 18:21:36 UTC] PHP Parse error:  syntax error, unexpected '$length' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 19
+[21-Nov-2023 04:18:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 16
+[21-Nov-2023 06:23:25 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 52
+[27-Nov-2023 07:21:36 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:28:46 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:28:49 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:28:51 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:28:58 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:29:10 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:29:22 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:29:33 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:29:36 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:29:55 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:29:57 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:30:40 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:30:44 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:31:34 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:31:41 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 07:47:23 UTC] PHP Fatal error:  Non-abstract method Cn_department::section_all() must contain body in /home/autoqed/public_html/hospital/application/controllers/Cn_department.php on line 194
+[27-Nov-2023 15:30:59 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 323
+[27-Nov-2023 15:32:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 323
+[28-Nov-2023 06:11:07 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 188
+[28-Nov-2023 06:12:38 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 188
+[28-Nov-2023 06:12:56 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 188
+[28-Nov-2023 06:12:57 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 188
+[28-Nov-2023 09:31:22 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 469
+[28-Nov-2023 09:31:22 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 469
+[28-Nov-2023 09:43:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 469
+[28-Nov-2023 09:43:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 469
+[28-Nov-2023 10:11:29 UTC] PHP Parse error:  syntax error, unexpected 'user_department_assign' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 561
+[28-Nov-2023 10:11:30 UTC] PHP Parse error:  syntax error, unexpected 'user_department_assign' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 561
+[29-Nov-2023 09:29:16 UTC] PHP Parse error:  syntax error, unexpected 'draw' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 544
+[29-Nov-2023 09:29:20 UTC] PHP Parse error:  syntax error, unexpected 'draw' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 544
+[29-Nov-2023 09:29:20 UTC] PHP Parse error:  syntax error, unexpected 'draw' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 544
+[30-Nov-2023 06:57:54 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:00:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 260
+[30-Nov-2023 07:00:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 260
+[30-Nov-2023 07:01:43 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:01:44 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:05:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:05:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:05:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:05:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:07:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:07:08 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:07:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 07:07:09 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 255
+[30-Nov-2023 08:22:48 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 312
+[30-Nov-2023 08:46:23 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 312
+[30-Nov-2023 08:47:50 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 312
+[30-Nov-2023 09:13:59 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 352
+[30-Nov-2023 09:14:21 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 368
+[30-Nov-2023 19:03:15 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 407
+[30-Nov-2023 19:46:54 UTC] PHP Parse error:  syntax error, unexpected '$array' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 388
+[01-Dec-2023 20:52:59 Asia/Kolkata] PHP Fatal error:  Call to undefined function prnt_r() in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 217
+[01-Dec-2023 15:24:51 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 217
+[01-Dec-2023 15:26:04 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 218
+[02-Dec-2023 13:41:43 UTC] PHP Parse error:  syntax error, unexpected 'ri' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 13
+[03-Dec-2023 07:20:10 UTC] PHP Parse error:  syntax error, unexpected 'vw_demographic_detail' (T_STRING), expecting ']' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 45
+[03-Dec-2023 13:01:50 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::result_row() in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 43
+[03-Dec-2023 10:17:57 UTC] PHP Parse error:  syntax error, unexpected 'OPD' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 46
+[03-Dec-2023 10:28:23 UTC] PHP Parse error:  syntax error, unexpected 'OPD' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 46
+[03-Dec-2023 11:25:53 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 63
+[03-Dec-2023 11:26:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 63
+[03-Dec-2023 11:26:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 63
+[03-Dec-2023 17:29:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 77
+[07-Dec-2023 10:41:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/leftbar.php on line 329
+[08-Dec-2023 07:22:10 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/autoqed/public_html/hospital/application/controllers/Cn_role_assignment.php on line 109
+[08-Dec-2023 07:37:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/autoqed/public_html/hospital/application/controllers/Cn_role_assignment.php on line 138
+[08-Dec-2023 10:23:51 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting ')' in /home/autoqed/public_html/hospital/application/controllers/Cn_visitor_pass.php on line 87
+[08-Dec-2023 11:59:35 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/autoqed/public_html/hospital/application/controllers/Cn_visitor_pass.php on line 122
+[08-Dec-2023 21:10:21 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:10:26 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:11:53 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:14:05 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:14:11 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:15:13 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:16:55 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:21:15 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:21:21 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:21:40 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:21:55 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:21:58 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:22:11 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[08-Dec-2023 21:23:05 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/views/vw_visitor_pass.php on line 88
+[10-Dec-2023 23:44:03 Asia/Kolkata] PHP Fatal error:  Call to undefined function [["1","125 Ml","Oral","1","1","1","1","7","Days","20","2023-12-15","2023-12-28","After Lunch","ijoijoijoj","iuygu"],["3","500 GML","Intravenous","7","7","7","7","78","Days","8","2023-12-21","2023-12-07","After Lunch","rfd5rd5d5","rtrt"]]() in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 96
+[11-Dec-2023 03:24:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 151
+[11-Dec-2023 03:24:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 151
+[11-Dec-2023 08:52:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_services.php on line 271
+[12-Dec-2023 08:49:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 112
+[13-Dec-2023 13:52:06 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 103
+[14-Dec-2023 06:04:18 UTC] PHP Parse error:  syntax error, unexpected '$result_query' (T_VARIABLE), expecting ',' or ';' in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 572
+[14-Dec-2023 13:19:50 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/autoqed/public_html/hospital/application/controllers/Cn_role_assignment.php on line 113
+[14-Dec-2023 14:30:48 UTC] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE), expecting ')' in /home/autoqed/public_html/hospital/application/controllers/Cn_user.php on line 823
+[15-Dec-2023 07:20:26 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 228
+[15-Dec-2023 19:14:39 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 482
+[15-Dec-2023 19:15:50 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 484
+[15-Dec-2023 19:16:53 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 484
+[15-Dec-2023 19:30:03 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 667
+[15-Dec-2023 19:36:01 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 670
+[15-Dec-2023 19:37:19 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 670
+[15-Dec-2023 19:38:31 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 670
+[15-Dec-2023 19:41:41 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/views/vw_user.php on line 669
+[15-Dec-2023 19:59:18 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 18
+[15-Dec-2023 20:19:55 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 18
+[15-Dec-2023 20:22:43 Asia/Kolkata] PHP Fatal error:  Call to undefined function dl() in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 10
+[15-Dec-2023 20:30:33 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 23
+[15-Dec-2023 20:33:42 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 23
+[15-Dec-2023 20:45:25 Asia/Kolkata] PHP Fatal error:  Class 'COM' not found in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 23
+[15-Dec-2023 15:20:11 UTC] PHP Warning:  Unterminated comment starting line 23 in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 23
+[15-Dec-2023 15:20:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_barcode_print.php on line 54
+[18-Dec-2023 08:44:08 UTC] PHP Parse error:  syntax error, unexpected 'generate_lis_report' (T_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 185
+[18-Dec-2023 09:12:35 UTC] PHP Parse error:  syntax error, unexpected '$record' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 295
+[18-Dec-2023 09:12:38 UTC] PHP Parse error:  syntax error, unexpected '$record' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 295
+[18-Dec-2023 09:12:39 UTC] PHP Parse error:  syntax error, unexpected '$record' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 295
+[18-Dec-2023 14:44:47 Asia/Kolkata] PHP Fatal error:  escapeshellarg(): Argument exceeds the allowed length of 4096 bytes in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 357
+[18-Dec-2023 14:46:02 Asia/Kolkata] PHP Fatal error:  escapeshellarg(): Argument exceeds the allowed length of 4096 bytes in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 357
+[18-Dec-2023 14:53:50 Asia/Kolkata] PHP Fatal error:  escapeshellarg(): Argument exceeds the allowed length of 4096 bytes in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 359
+[18-Dec-2023 15:01:22 Asia/Kolkata] PHP Fatal error:  escapeshellarg(): Argument exceeds the allowed length of 4096 bytes in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 358
+[18-Dec-2023 15:05:56 Asia/Kolkata] PHP Fatal error:  escapeshellarg(): Argument exceeds the allowed length of 4096 bytes in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 358
+[18-Dec-2023 15:07:47 Asia/Kolkata] PHP Fatal error:  escapeshellarg(): Argument exceeds the allowed length of 4096 bytes in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 358
+[18-Dec-2023 09:41:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 187
+[18-Dec-2023 18:39:43 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home/autoqed/public_html/hospital/application/controllers/Cn_legal_licensing.php on line 156
+[18-Dec-2023 18:40:27 Asia/Kolkata] PHP Fatal error:  Call to a member function format() on boolean in /home/autoqed/public_html/hospital/application/controllers/Cn_legal_licensing.php on line 156
+[19-Dec-2023 15:45:12 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 389
+[19-Dec-2023 15:45:42 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 389
+[19-Dec-2023 15:45:47 UTC] PHP Parse error:  syntax error, unexpected 'case' (T_CASE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 389
+[22-Dec-2023 18:24:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_casepaper.php on line 147
+[22-Dec-2023 18:48:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_casepaper.php on line 141
+[26-Dec-2023 09:10:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 675
+[26-Dec-2023 09:11:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 675
+[26-Dec-2023 15:09:23 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 729
+[26-Dec-2023 15:10:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 729
+[27-Dec-2023 03:21:36 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 597
+[27-Dec-2023 03:21:38 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 597
+[27-Dec-2023 03:21:39 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 597
+[27-Dec-2023 03:21:41 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 597
+[27-Dec-2023 03:21:42 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 597
+[27-Dec-2023 03:22:16 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 597
+[29-Dec-2023 06:16:10 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 196
+[02-Jan-2024 07:54:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/autoqed/public_html/hospital/application/controllers/Cn_rate_config.php on line 153
+[04-Jan-2024 13:32:38 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 541
+[04-Jan-2024 17:10:36 Asia/Kolkata] PHP Fatal error:  Call to undefined function CURRENT_TIMESTAMP() in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 318
+[04-Jan-2024 17:11:31 Asia/Kolkata] PHP Fatal error:  Call to undefined function CURRENT_TIMESTAMP() in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 318
+[04-Jan-2024 17:11:50 Asia/Kolkata] PHP Fatal error:  Call to undefined function CURRENT_TIMESTAMP() in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 318
+[05-Jan-2024 05:50:22 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 401
+[11-Jan-2024 13:54:40 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 536
+[11-Jan-2024 13:55:37 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 536
+[11-Jan-2024 13:55:38 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 536
+[11-Jan-2024 13:55:39 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 536
+[15-Jan-2024 08:07:36 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/autoqed/public_html/hospital/application/controllers/Cn_OT_registration.php on line 85
+[15-Jan-2024 08:13:26 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_OT_registration.php on line 95
+[15-Jan-2024 09:15:07 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_OT_registration.php on line 93
+[15-Jan-2024 10:28:35 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/autoqed/public_html/hospital/application/controllers/Cn_OT_registration.php on line 87
+[15-Jan-2024 12:23:06 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_OT_registration.php on line 128
+[15-Jan-2024 12:24:21 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/autoqed/public_html/hospital/application/controllers/Cn_OT_registration.php on line 128
+[19-Jan-2024 07:56:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/config/routes.php on line 498
+[19-Jan-2024 15:13:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_ipd_appointment.php on line 271
+[19-Jan-2024 15:18:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_ipd_appointment.php on line 271
+[19-Jan-2024 15:18:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_ipd_appointment.php on line 271
+[19-Jan-2024 15:18:39 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_ipd_appointment.php on line 271
+[19-Jan-2024 21:13:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/autoqed/public_html/hospital/application/controllers/Cn_ipd_appointment.php on line 794
+[19-Jan-2024 21:14:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/autoqed/public_html/hospital/application/controllers/Cn_ipd_appointment.php on line 794
+[20-Jan-2024 03:54:04 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 03:54:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 03:54:12 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 03:54:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 03:54:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 03:54:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 03:55:10 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 03:57:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 114
+[20-Jan-2024 03:57:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 114
+[20-Jan-2024 03:58:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 114
+[20-Jan-2024 04:00:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[20-Jan-2024 04:00:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/views/vw_ipd_receipt.php on line 135
+[23-Jan-2024 11:57:48 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_result as array in /home/autoqed/public_html/hospital/application/controllers/Cn_ipd_appointment.php on line 446
+[24-Jan-2024 08:27:31 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 828
+[25-Jan-2024 06:25:40 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 920
+[31-Jan-2024 08:39:52 Asia/Kolkata] PHP Fatal error:  Call to a member function output() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_doctor_dashboard.php on line 197
+[31-Jan-2024 08:41:24 Asia/Kolkata] PHP Fatal error:  Call to a member function output() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_doctor_dashboard.php on line 197
+[31-Jan-2024 08:41:52 Asia/Kolkata] PHP Fatal error:  Call to a member function output() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_doctor_dashboard.php on line 191
+[31-Jan-2024 16:04:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[31-Jan-2024 16:04:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_clinical_examination_print.php on line 145
+[06-Feb-2024 15:18:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 483
+[06-Feb-2024 15:20:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 483
+[06-Feb-2024 15:20:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 483
+[07-Feb-2024 08:48:46 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:49:35 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 8
+[07-Feb-2024 08:49:41 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 8
+[07-Feb-2024 08:50:14 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:29 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:30 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:31 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:32 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:46 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:47 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:47 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:47 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:48 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:48 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:49 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 08:51:49 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 09:23:53 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 09:34:28 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 09:34:30 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[07-Feb-2024 09:37:30 UTC] PHP Parse error:  syntax error, unexpected 'use' (T_USE) in /home/autoqed/public_html/hospital/application/controllers/Cn_lab_technician.php on line 636
+[13-Feb-2024 14:35:17 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 293
+[13-Feb-2024 16:24:51 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 293
+[19-Feb-2024 11:57:55 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 11:57:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 11:57:57 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 11:58:02 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 11:58:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 11:58:17 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 12:00:32 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 12:00:33 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 12:00:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 12:00:34 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 12:00:35 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 12:01:20 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 17:08:00 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 17:08:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 17:08:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 17:08:01 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 17:08:02 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 17:08:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[19-Feb-2024 17:08:03 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:15:46 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:15:47 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:25:13 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:25:14 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:25:22 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:25:23 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:25:30 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 14:22:21 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 14:40:31 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 14:40:35 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 14:41:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 464
+[20-Feb-2024 11:38:00 UTC] PHP Parse error:  syntax error, unexpected 'die' (T_EXIT), expecting ',' or ';' in /home/autoqed/public_html/hospital/application/controllers/Cn_doctor_dashboard.php on line 160
+[23-Feb-2024 07:11:18 UTC] PHP Fatal error:  Cannot redeclare Cn_diagnosis_appointment::diagnosis_appointment_receipt() in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 604
+[23-Feb-2024 07:12:28 UTC] PHP Fatal error:  Cannot redeclare Cn_diagnosis_appointment::diagnosis_appointment_receipt() in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 604
+[23-Feb-2024 12:58:16 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::result_query() in /home/autoqed/public_html/hospital/application/controllers/Cn_diagnosis_appointment.php on line 627
+[23-Feb-2024 15:32:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_opd_appointment.php on line 480
+[28-Feb-2024 14:52:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function alert() in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 1389
+[28-Feb-2024 14:53:40 Asia/Kolkata] PHP Fatal error:  Call to undefined function alert() in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 1389
+[01-Mar-2024 08:07:08 UTC] PHP Fatal error:  Cannot redeclare Cn_interview_form::interview_action() in /home/autoqed/public_html/hospital/application/controllers/Cn_interview_form.php on line 162
+[01-Mar-2024 10:31:10 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_interview_form.php on line 209
+[05-Mar-2024 15:49:52 UTC] PHP Parse error:  syntax error, unexpected ''.$IS_id.'' (T_CONSTANT_ENCAPSED_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_interview_form.php on line 242
+[05-Mar-2024 15:51:14 UTC] PHP Parse error:  syntax error, unexpected ''.$IS_id.'' (T_CONSTANT_ENCAPSED_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_interview_form.php on line 242
+[05-Mar-2024 15:51:16 UTC] PHP Parse error:  syntax error, unexpected ''.$IS_id.'' (T_CONSTANT_ENCAPSED_STRING) in /home/autoqed/public_html/hospital/application/controllers/Cn_interview_form.php on line 242
+[06-Mar-2024 17:26:05 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:28:20 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:37:04 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:37:52 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 12:09:38 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:39:55 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:40:39 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:42:24 Asia/Kolkata] PHP Fatal error:  Cannot use object of type CI_DB_mysqli_driver as array in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:43:39 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:50:21 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:57:33 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:58:22 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 17:59:44 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 18:06:58 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 18:12:25 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 18:13:54 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[06-Mar-2024 18:14:23 Asia/Kolkata] PHP Fatal error:  Call to a member function query() on null in /home/autoqed/public_html/hospital/application/controllers/Cn_demographic_detail.php on line 87
+[08-Mar-2024 12:01:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/autoqed/public_html/hospital/application/controllers/Cn_room_master.php on line 144
+[08-Mar-2024 12:02:18 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/autoqed/public_html/hospital/application/controllers/Cn_room_master.php on line 181
+[27-Mar-2024 13:11:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_dashboard.php on line 314
+[27-Mar-2024 13:12:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_dashboard.php on line 309
+[27-Mar-2024 13:12:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_dashboard.php on line 309
+[27-Mar-2024 13:12:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/autoqed/public_html/hospital/application/views/vw_dashboard.php on line 308
